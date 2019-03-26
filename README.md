@@ -1,5 +1,7 @@
 
-# Simple move file
+# Google CloudFunc: 
+# Python: 
+## Copies A File Between Buckets
 
 A simple google cloud function that copies a file from one bucket to another.
 
