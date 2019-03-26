@@ -1,4 +1,4 @@
-# Cloud file mover
+# File mover
 
 * Google CloudFunc 
 * Python 
